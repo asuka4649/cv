@@ -11,24 +11,25 @@ reddit = praw.Reddit(
 subreddit = reddit.subreddit('memes')
 
 # Directory where you want to save the images
-save_dir = 'C:/Users/xxoox/OneDrive/'
+save_dir = 'C:/Users/xxoox/OneDrive/reddit_memes'
 
-# Ensure the save directory exists
 if not os.path.exists(save_dir):
     os.makedirs(save_dir)
 
-# Fetch top posts from the subreddit
-for submission in subreddit.top(time_filter='day', limit=50):
-    # Check if the URL points to an image
-    if submission.url.endswith(('.jpg', '.png')):
-        # Get the image content
+for submission in subreddit.hot(limit=1000):  # Example: using 'hot' posts
+    file_extension = os.path.splitext(submission.url)[1] if os.path.splitext(submission.url)[1] in ['.jpg', '.png',
+                                                                                                    '.gif'] else '.jpg'
+    file_path = os.path.join(save_dir, f"{submission.id}{file_extension}")
+
+    if not os.path.exists(file_path):
         response = requests.get(submission.url)
         if response.status_code == 200:
-            # Create a file path with the submission ID as the filename
-            file_path = os.path.join(save_dir, f"{submission.id}.jpg")
-            # Write the image data to a file
             with open(file_path, 'wb') as file:
                 file.write(response.content)
             print(f"Saved image {submission.id} to {file_path}")
+        else:
+            print(f"Failed to download {submission.url}")
+    else:
+        print(f"Image {submission.id} already exists. Skipping.")
 
 print("Finished downloading images.")
