@@ -25,7 +25,7 @@
    <strong><u>Communication Design (AAS),</u></strong> <p>Fashion Institute of Technology, New York, NY, August 2010 - May 2012</p>
    <strong><u>Sculpture in Fine Arts (BFA),</u></strong> <p>Kyoto City University of Arts, Kyoto, Japan, April 2003 - March 2009</p>
 
-<h2>SUPPLEMENTAL COURSEWORK:</h2>
+<h2>COURSEWORKS:</h2>
    <p><strong><u>Linear Algebra, Psychology Research Method,</u></strong>
    Los Angeles City College, East LA College (Los Angeles Community College System)
    September - December 2023</p>
