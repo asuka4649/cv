@@ -1,6 +1,10 @@
 <h1>[Project Description]</h1>
 <h2>MATLAB:</h2>
 <p>Machine Learning algorithm development (KNN and SVM), Feature Detection and Matching, and Image Stitching projects (file names describes which one is which).</p>
+
+<h2>Python:</h2>
+<p>Automation programs by using APIs.</p>
+
 <h2>SQL:</h2>
 <p>Database management system design projects.</p>
 <h2>Excel:</h2>
