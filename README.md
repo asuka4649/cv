@@ -3,7 +3,11 @@
 <p>Machine Learning algorithm development (KNN and SVM), Feature Detection and Matching, and Image Stitching projects (file names describes which one is which).</p>
 
 <h2>Python:</h2>
-<p>Automation programs by using APIs.</p>
+<p>Automation programs</p>
+<p>↳ arXiv_scraping.py: Scraping research papers on arXiv by keywords embedded in Python code via API.</p>
+<p>↳ Reddit_ImageScrapingAPI.py: Scraping meme images on Reddit via API.</p>
+<p>↳ StockDataAnalysis_backtesting1.py: Trading indicator generation system for SP500.</p>
+<p>↳ arXiv_scraping.py: Scraping research papers on arXiv by keywords embedded in Python code via API.</p>
 
 <h2>SQL:</h2>
 <p>Database management system design projects.</p>
