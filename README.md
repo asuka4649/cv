@@ -10,7 +10,7 @@
 
 
 
-<h1>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; nbsp; &nbsp; &nbsp;&nbsp;&nbsp;h1>
+<h1>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; nbsp; &nbsp; &nbsp;&nbsp;&nbsp;<h1>
 <h1>[Bio]</h1>
 <h1>Asuka(Jessica) Inoshita</h1>
 <h2>PROFESSIONAL HISTORY:</h2>
