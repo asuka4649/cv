@@ -1,3 +1,17 @@
+<h1>Project Description</h1>
+<h2>MATLAB:</h2>
+⇒　Machine Learning algorithm development (KNN and SVM), Feature Detection and Matching, and Image Stitching projects (file names describes which one is which).
+
+
+
+
+
+
+
+
+
+
+
 <h1>Asuka(Jessica) Inoshita</h1>
 <h2>PROFESSIONAL HISTORY:</h2>
    <p>(October 2023 - Current )</p>
