@@ -7,7 +7,7 @@
 <p>↳ arXiv_scraping.py: Scraping research papers on arXiv by keywords embedded in Python code via API.</p>
 <p>↳ Reddit_ImageScrapingAPI.py: Scraping meme images on Reddit via API.</p>
 <p>↳ StockDataAnalysis_backtesting1.py: Trading indicator generation system for SP500.</p>
-<p>↳ arXiv_scraping.py: Scraping research papers on arXiv by keywords embedded in Python code via API.</p>
+<p>↳ WebSearch_automation_app.py: Automating web search by keywords embedded in Python code</p>
 
 <h2>SQL:</h2>
 <p>Database management system design projects.</p>
