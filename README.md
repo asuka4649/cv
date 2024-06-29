@@ -3,10 +3,17 @@
 <p>Machine Learning algorithm development (KNN and SVM), Feature Detection and Matching, and Image Stitching projects (file names describes which one is which).</p>
 
 <h2>Python:</h2>
+<p>Machine Learning w/ TensorFlow on GoogleColab</p>
+<p>↳ MultiLinearRegres_Emission.ipynb: Multi Linear Regression training model about gas emission from IBM course.</p>
+<p>↳ K_Nearest_Neighbors_practice.ipynb: KNN training model project from IBM course.</p>
+<p>↳ regression_Car.ipynb: Regression training model project from IBM course.</p>
+<p>↳ text_generation.ipynb: NLP training self-project by utilizing Steve Jobs' speech (text generation unsuccessful).</p>
+<p>↳ </p>
 <p>Automation programs</p>
 <p>↳ arXiv_scraping.py: Scraping research papers on arXiv by keywords embedded in Python code via API.</p>
 <p>↳ Reddit_ImageScrapingAPI.py: Scraping meme images on Reddit via API.</p>
-<p>↳ StockDataAnalysis_backtesting1.py: Trading indicator generation system for SP500.</p>
+<p>↳ MACD+RSI_tradingStrategy.py: Trading indicator(buy or sell) generation system for SP500.</p>
+<p>↳ MACDandRSI_PineScript.r: Trading indicator(buy or sell) generation system for SP500 only for the TradingView platform.</p>
 <p>↳ WebSearch_automation_app.py: Automating web search by keywords embedded in Python code</p>
 
 <h2>SQL:</h2>
